@@ -1,17 +1,7 @@
-# Hi there, I'm Aida 👋
-## I am a Frontend Developer. I love coding, writing, speaking and traveling.
-## Glad to see you here! 😄
-### 📍 Currently base at: Istanbul, Turkey
-
-
 <h1 align="left">Hi there, I'm Aida 👋🏻 </h1>
 <h3 align="left"> I am a Frontend Developer. I love coding, writing, speaking and traveling. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: Istanbul, Turkey</h5>
-
-
-
-
 
 <div size='20px'> 
 <h2 align='left'> Connect with me 🙋🏼‍♀️ </h2>
@@ -21,8 +11,7 @@
  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=aida-solat.aida-solat)
   
-
-
+ 
 </p>
 </div>
 
