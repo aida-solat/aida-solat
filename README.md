@@ -76,7 +76,7 @@
     </a>
   </div>
   <br>
-  <img src="#" width="100%"/>
+  
 </p>
 <hr>
 
