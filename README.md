@@ -21,10 +21,10 @@
 <a href = 'https://github.com/aida-solat'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href="mailto:aidasolatco@gmail.com?subject=Would you like more information?"> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg"/></a> 
  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=aida-solat.aida-solat)
+
   
  
-</p>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
