@@ -20,10 +20,10 @@
 <p align='center'>
     <a href='https://www.linkedin.com/in/aida-solat/'> <img width='35px' align='center'
             src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" /></a>
-    $~~$
+    &nbsp;
     <a href='https://github.com/aida-solat'> <img width='35px' align='center'
             src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" /></a>
-    $~~$
+   &nbsp;
     <a href="mailto:aidasolatco@gmail.com?subject=Would you like more information?"> <img width='35px' align='center'
             src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg" /></a>
 
