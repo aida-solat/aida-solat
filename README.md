@@ -119,7 +119,7 @@
 
 
 <h4 align="center">
-    <a href="https://github.com/aida-solat?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+    <a href="https://github.com/stars/aida-solat/lists/my-project" title="Show Repositories">🔎 SEE MY PROJECT 🔍</a>
 </h4>
 
 <hr>
