@@ -102,7 +102,7 @@
     </a>
     <a href="#" title="Go to Source">
         <img align="right" width=396
-            src="https://github-readme-stats.vercel.app/api?username=aida-solat&show_icons=true&hide_border=true&theme=tokyonight" />
+            src="https://github-readme-stats.vercel.app/api?username=aida-solat&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
     </a>
 </div>
 <br><br><br><br><br><br><br><br><br>
