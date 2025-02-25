@@ -47,7 +47,7 @@
     &nbsp;
     <img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg' alt='nestjs'>
     &nbsp;
-     <img width ='44px' align='center' src ='https://cdn.worldvectorlogo.com/logos/next-js.svg' alt='nextjs'>
+     <img width ='44px' align='center' src ='https://img.icons8.com/fluent-systems-regular/200/FFFFFF/nextjs.png' alt='nextjs'>
     &nbsp;
     <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
     &nbsp;
@@ -80,7 +80,6 @@
     <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'>
     &nbsp;
     <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
-
 
 </p>
 <hr>
