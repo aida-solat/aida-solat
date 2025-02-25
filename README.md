@@ -25,7 +25,7 @@
             src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" /></a>
    &nbsp;
     <a href="mailto:aidasolatco@gmail.com?subject=Would you like more information?"> <img width='35px' align='center'
-            src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" /></a>
+            src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
 
 </p>
 
