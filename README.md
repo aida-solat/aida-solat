@@ -1,8 +1,4 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aida-solat.aida-solat">
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aida-solat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://at.linkedin.com/in/aida-solat?trk=profile-badge">Aida S.</a></div>
-              
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
@@ -29,11 +25,9 @@
             src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" /></a>
    &nbsp;
     <a href="mailto:aidasolatco@gmail.com?subject=Would you like more information?"> <img width='35px' align='center'
-            src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg" /></a>
-
+            src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" /></a>
 
 </p>
-
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -120,7 +114,6 @@
 
 </p>
 <hr>
-
 
 <h4 align="center">
     <a href="https://github.com/stars/aida-solat/lists/my-project" title="Show Repositories">🔎 SEE MY PROJECT 🔍</a>
