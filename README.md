@@ -57,7 +57,7 @@
     &nbsp;
     <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
     &nbsp;
-    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'>
+    <img width ='44px' align='center' src ='https://media.licdn.com/dms/image/v2/D4E12AQG9RiCs_cAZSw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1665152305999?e=2147483647&v=beta&t=JaTBAdeSSQUihG2xqrhPrRv_kIV4P_JKCk4PGSrolXY'>
     &nbsp;
     <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
     &nbsp;
