@@ -87,11 +87,7 @@
 <br>
 <p align=center>
 <div align=center>
-    <a href="#" title="Go to Source">
-        <img align="left" width=396
-            src="https://github-readme-streak-stats.herokuapp.com/?user=aida-solat&hide_border=true&theme=tokyonight"
-            alt="aida-solat" />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aida-solat&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     <a href="#" title="Go to Source">
         <img align="right" width=396
             src="https://github-readme-stats.vercel.app/api?username=aida-solat&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
