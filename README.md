@@ -51,11 +51,9 @@
     &nbsp;
     <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
     &nbsp;
-    <img width ='44px' align='center' src ='https://gitlab.poul.org/uploads/-/system/project/avatar/249/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png'>
+    <img width ='44px' align='center' src ='https://e7.pngegg.com/pngimages/846/87/png-clipart-mean-solution-stack-express-js-node-js-javascript-github-text-trademark.png' alt='expressjs'>
     &nbsp;
     <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
-    &nbsp;
-    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
     &nbsp;
     <img width ='44px' align='center' src ='https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png'>
     &nbsp;
