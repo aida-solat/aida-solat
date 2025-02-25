@@ -81,34 +81,5 @@
 
 </p>
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-<div align=center>
-    <a href="#" title="Go to Source">
-        <img align="left" width=396
-            src="https://github-readme-streak-stats.herokuapp.com?user=aida-solat&theme=tokyonight&hide_border=true"
-            alt="aida-solat" />
-    </a>
-    <a href="#" title="Go to Source">
-        <img align="right" width=396
-            src="https://github-readme-stats.vercel.app/api?username=aida-solat&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-    </a>
-</div>
-<br><br><br><br><br><br><br><br><br>
-<div align=center>
-    <a href="#">
-        <img width=325 align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=aida-solat&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" />
-    </a>
-</div>
-<br>
 
 </p>
-<hr>
-
-<h4 align="center">
-    <a href="https://github.com/aida-solat?tab=repositories" title="Show Repositories">🔎 SEE MY PROJECT 🔍</a>
-</h4>
-
-<hr>
